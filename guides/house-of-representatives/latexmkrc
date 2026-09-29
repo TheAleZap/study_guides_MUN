@@ -1,0 +1,17 @@
+use File::Basename;
+use Cwd 'abs_path';
+
+my $root = abs_path(dirname(__FILE__) . '/../..');
+
+$pdf_mode = 4;
+$lualatex = 'lualatex -interaction=nonstopmode -file-line-error %O %S';
+$bibtex_use = 2;
+# The short-page fixer may tighten a section once per run.
+$max_repeat = 12;
+$ENV{'TEXINPUTS'} = "$root/template//:" . ($ENV{'TEXINPUTS'} // '');
+$ENV{'TEXMFVAR'} = "$root/.texlive-var";
+$ENV{'TEXMFCACHE'} = "$root/.texlive-var";
+
+# macOS: the stock universal biber calls `lipo`, which fails until the Xcode
+# licence is accepted. scripts/fix-biber.py extracts a native arm64 copy.
+$biber = -x "$root/.tools/biber" ? "$root/.tools/biber %O %S" : 'biber %O %S';

@@ -1,0 +1,13 @@
+{
+  "source": "SG_assets/RED/UNESCO _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/UNESCO.png",
+  "output": "unesco_ieumun2026.pdf",
+  "meta": {
+    "committee": "UNESCO",
+    "longname": "United Nations Educational, Scientific and Cultural Organization",
+    "topic": "Accountability for Heritage Destruction in Armed Conflict",
+    "authors": "Nia & Valentina",
+    "authors_label": "Chairs",
+    "editor": ""
+  }
+}

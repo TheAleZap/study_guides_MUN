@@ -1,0 +1,14 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% NORTH ATLANTIC TREATY ORGANISATION
+% “Undersea Infrastructure Security in the Baltic Sea”
+% INDEX
+% LETTER FROM THE CHAIR
+% LIST OF ABBREVIATION
+% ABOUT THE COMMITTEE
+% ABOUT TOPIC
+% PAST ACTIONS & CURRENT SITUATION
+% BLOC POSITIONS AND KEY STAKEHOLDERS
+% WARMAS
+% FURTHER READINGS AND BIBLIOGRAPHY

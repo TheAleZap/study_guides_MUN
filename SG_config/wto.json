@@ -1,0 +1,42 @@
+{
+  "source": "SG_assets/RED/WTO _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/WTO.png",
+  "output": "wto_ieumun2026.pdf",
+  "meta": {
+    "committee": "WTO",
+    "longname": "World Trade Organization",
+    "topic": "Balancing National Security and Free Trade in an Era of Geopolitical Tension",
+    "authors": "Farhan, Céline & Yassine",
+    "authors_label": "Chairs",
+    "editor": ""
+  },
+  "convert": {
+    "text_fixes": [
+      ["Framgworfi", "Framework"],
+      ["Oreanization", "Organization"]
+    ]
+  },
+  "patches": [
+    {
+      "file": "content/*about-the-topic.tex",
+      "find": "National treatment prevents governments\n\n",
+      "replace": "National treatment prevents governments from using domestic regulation as a covert form of protectionism.\n\n"
+    },
+    {
+      "file": "content/*about-the-topic.tex",
+      "find": "dual-use goods is a from using domestic regulation as a covert form of protectionism.\n\ncentral challenge",
+      "replace": "dual-use goods is a central challenge"
+    },
+    {
+      "file": "content/*about-the-topic.tex",
+      "regex": true,
+      "find": "brought before the\n\n(\\\\subsubsection\\{Semiconductors and Economic Decoupling\\}.*?one that) (WTO at all\\..*?at will\\.)\n\n(takes genuine security concerns seriously[^\n]*)",
+      "replace": "brought before the \\2\n\n\\1 \\3"
+    },
+    {
+      "file": "content/*about-the-topic.tex",
+      "find": "The Collapse of the Dispute Settlement System The WTO",
+      "replace": "\\subsubsection{The Collapse of the Dispute Settlement System}\n\nThe WTO"
+    }
+  ]
+}

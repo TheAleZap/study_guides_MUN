@@ -1,0 +1,54 @@
+{
+  "sections": [
+    {
+      "file": "00-chair-letter",
+      "title": "Chair Letter:",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-list-of-abbreviations",
+      "title": "List of Abbreviations",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "About the Committee",
+      "kind": "normal"
+    },
+    {
+      "file": "03-topic",
+      "title": "Topic",
+      "kind": "normal"
+    },
+    {
+      "file": "04-bibliography",
+      "title": "Bibliography",
+      "kind": "references"
+    },
+    {
+      "file": "05-further-reading",
+      "title": "Further Reading",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "TABLE OF CONTENTS"
+  ],
+  "images": 0,
+  "word_footnotes": 0,
+  "rebuilt_footnotes": 82,
+  "source_notes": 82,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 82,
+  "expected_footnotes": 82,
+  "pdf_mode": true,
+  "guessed_meta": {
+    "committee": "UNITED NATIONS OFFICE ON DRUGS AND CRIMES",
+    "longname": "",
+    "topic": "Combating Human Trafficking in Conflict & Post-Conflict Zones",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": []
+}

@@ -1,0 +1,12 @@
+{
+  "source": "SG_assets/BLUE/UNSC _ IEUMUN 2026.doc",
+  "cover": "SG_assets/COVER IMAGES/UNSC.png",
+  "output": "unsc_ieumun2026.pdf",
+  "meta": {
+    "committee": "UNSC",
+    "longname": "United Nations Security Council",
+    "topic": "The Question of International Security in Maritime Chokepoints",
+    "authors": "Talia Asar, Aryan Agrawal & Mahima Rajpal",
+    "editor": ""
+  }
+}

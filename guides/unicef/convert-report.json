@@ -1,0 +1,62 @@
+{
+  "sections": [
+    {
+      "file": "00-carta-de-los-presidentes",
+      "title": "CARTA DE LOS PRESIDENTES",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-lista-de-abreviaciones",
+      "title": "LISTA DE ABREVIACIONES",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-sobre-el-comit",
+      "title": "SOBRE EL COMITÉ",
+      "kind": "normal"
+    },
+    {
+      "file": "03-sobre-el-tema",
+      "title": "SOBRE EL TEMA",
+      "kind": "normal"
+    },
+    {
+      "file": "04-situaci-n-actual",
+      "title": "SITUACIÓN ACTUAL",
+      "kind": "normal"
+    },
+    {
+      "file": "05-posiciones-de-bloques",
+      "title": "POSICIONES DE BLOQUES",
+      "kind": "normal"
+    },
+    {
+      "file": "06-preguntas-que-la-resoluci-n-deber-a-resp",
+      "title": "PREGUNTAS QUE LA RESOLUCIÓN DEBERÍA RESPONDER",
+      "kind": "normal"
+    },
+    {
+      "file": "07-referencias",
+      "title": "Referencias",
+      "kind": "references"
+    }
+  ],
+  "skipped": [],
+  "images": 0,
+  "word_footnotes": 0,
+  "rebuilt_footnotes": 52,
+  "source_notes": 52,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 52,
+  "expected_footnotes": 52,
+  "pdf_mode": true,
+  "guessed_meta": {
+    "committee": "",
+    "longname": "",
+    "topic": "",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": []
+}

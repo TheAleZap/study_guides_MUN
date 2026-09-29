@@ -1,0 +1,73 @@
+{
+  "sections": [
+    {
+      "file": "00-welcome-letter-from-the-chairs",
+      "title": "Welcome Letter from the Chairs",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-list-of-abbreviations",
+      "title": "List of Abbreviations",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "About the Committee",
+      "kind": "normal"
+    },
+    {
+      "file": "03-about-the-topic",
+      "title": "About the Topic",
+      "kind": "normal"
+    },
+    {
+      "file": "04-current-situation",
+      "title": "Current Situation",
+      "kind": "normal"
+    },
+    {
+      "file": "05-key-stakeholders-and-blocs",
+      "title": "Key Stakeholders & Blocs",
+      "kind": "normal"
+    },
+    {
+      "file": "06-questions-a-resolution-must-answer",
+      "title": "Questions a Resolution Must Answer",
+      "kind": "normal"
+    },
+    {
+      "file": "07-further-readings",
+      "title": "Further Readings",
+      "kind": "references"
+    },
+    {
+      "file": "08-bibliography",
+      "title": "Bibliography",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "Table of Contents"
+  ],
+  "images": 0,
+  "word_footnotes": 0,
+  "rebuilt_footnotes": 142,
+  "source_notes": 142,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 142,
+  "expected_footnotes": 142,
+  "pdf_mode": true,
+  "guessed_meta": {
+    "committee": "United Nations Security Council",
+    "longname": "The Question of International Security in Maritime Chokepoints",
+    "topic": "Talia Asar, Aryan Agrawal G Mahima Rajpal",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": [
+    "note 42 has no marker in the text; attached after the paragraph before it.",
+    "note 42 has no marker in the text; attached after the paragraph before it.",
+    "note 43 has no marker in the text; attached after the paragraph before it."
+  ]
+}

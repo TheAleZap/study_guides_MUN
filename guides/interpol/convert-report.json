@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "file": "00-welcome-letter-from-the-chairs",
+      "title": "Welcome Letter from the Chairs",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-list-of-abbreviations",
+      "title": "List of Abbreviations",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "About the Committee",
+      "kind": "normal"
+    },
+    {
+      "file": "03-about-the-topic",
+      "title": "About the Topic",
+      "kind": "normal"
+    },
+    {
+      "file": "04-current-situation",
+      "title": "Current Situation",
+      "kind": "normal"
+    },
+    {
+      "file": "05-key-stakeholders-and-blocs",
+      "title": "Key Stakeholders & Blocs",
+      "kind": "normal"
+    },
+    {
+      "file": "06-questions-a-resolution-must-answer",
+      "title": "Questions a Resolution Must Answer",
+      "kind": "normal"
+    },
+    {
+      "file": "07-further-readings",
+      "title": "Further Readings",
+      "kind": "references"
+    },
+    {
+      "file": "08-bibliography",
+      "title": "Bibliography",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "TABLE OF CONTENTS"
+  ],
+  "images": 1,
+  "word_footnotes": 112,
+  "rebuilt_footnotes": 0,
+  "source_notes": 112,
+  "notes_outside_guide": 19,
+  "source_notes_missing": [],
+  "footnotes_written": 93,
+  "expected_footnotes": 93,
+  "pdf_mode": false,
+  "guessed_meta": {
+    "committee": "INTERPOL",
+    "longname": "International Criminal Police Organization",
+    "topic": "Financial Sovereignty, Offshore Secrecy, and INTERPOL’s Fight against Illicit Global Finance",
+    "authors": "Christian Galindo, Anastasiia Bolkhovitina & João Vasconcelos Gonçalves",
+    "editor": "Ariane Sorsen Albisu"
+  },
+  "warnings": []
+}

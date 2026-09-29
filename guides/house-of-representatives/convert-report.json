@@ -1,0 +1,67 @@
+{
+  "sections": [
+    {
+      "file": "00-about-the-committee",
+      "title": "Section 1: About the Committee",
+      "kind": "normal"
+    },
+    {
+      "file": "01-topic-introduction",
+      "title": "Section 2: Topic Introduction",
+      "kind": "normal"
+    },
+    {
+      "file": "02-international-legal-framework",
+      "title": "Section 3: International Legal Framework",
+      "kind": "normal"
+    },
+    {
+      "file": "03-history-of-the-topic",
+      "title": "Section 4: History of the Topic",
+      "kind": "normal"
+    },
+    {
+      "file": "04-past-actions-of-the-house",
+      "title": "Section 5: Past Actions of the House",
+      "kind": "normal"
+    },
+    {
+      "file": "05-current-situation",
+      "title": "Section 6: Current Situation",
+      "kind": "normal"
+    },
+    {
+      "file": "06-stakeholder-and-bloc-positions",
+      "title": "Section 7: Stakeholder & Bloc Positions",
+      "kind": "normal"
+    },
+    {
+      "file": "07-questions-a-resolution-must-answer",
+      "title": "Questions a Resolution Must Answer",
+      "kind": "normal"
+    },
+    {
+      "file": "08-bibliography",
+      "title": "Bibliography",
+      "kind": "references"
+    }
+  ],
+  "skipped": [],
+  "images": 2,
+  "word_footnotes": 94,
+  "rebuilt_footnotes": 0,
+  "source_notes": 94,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 94,
+  "expected_footnotes": 94,
+  "pdf_mode": false,
+  "guessed_meta": {
+    "committee": "United States",
+    "longname": "HOUSE OF REPRESENTATIVES",
+    "topic": "The Privatisation and Commercial Colonisation of Outer Space",
+    "authors": "Christian Galindo, Anastasiia Bolkhovitina & João Vasconcelos Gonçalves",
+    "editor": "Ariane Sorsen Albisu"
+  },
+  "warnings": []
+}

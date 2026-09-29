@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "file": "00-letter-from-the-chairs",
+      "title": "01 Letter from the Chairs",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-list-of-abbreviations",
+      "title": "02 List of Abbreviations",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "03 About the Committee",
+      "kind": "normal"
+    },
+    {
+      "file": "03-about-the-topic",
+      "title": "04 About the Topic",
+      "kind": "normal"
+    },
+    {
+      "file": "04-current-situation",
+      "title": "05 Current Situation",
+      "kind": "normal"
+    },
+    {
+      "file": "05-key-stakeholders-and-bloc-positions",
+      "title": "06 Key Stakeholders & Bloc Positions",
+      "kind": "normal"
+    },
+    {
+      "file": "06-questions-a-resolution-must-answer-qarma",
+      "title": "07 Questions a Resolution Must Answer (QARMAs)",
+      "kind": "normal"
+    },
+    {
+      "file": "07-bibliography",
+      "title": "08 Bibliography",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "Table of Contents"
+  ],
+  "images": 0,
+  "word_footnotes": 39,
+  "rebuilt_footnotes": 0,
+  "source_notes": 39,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 39,
+  "expected_footnotes": 39,
+  "pdf_mode": false,
+  "guessed_meta": {
+    "committee": "WORLD BANK",
+    "longname": "Sovereign Debt Distress in Developing Economies",
+    "topic": "Protecting Development Financing in a Debt Crisis",
+    "authors": "Nils Bischof & Julius Masrouki",
+    "editor": ""
+  },
+  "warnings": []
+}

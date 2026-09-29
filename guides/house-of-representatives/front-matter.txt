@@ -1,0 +1,12 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% United States
+% HOUSE OF REPRESENTATIVES
+% The Privatisation and Commercial Colonisation
+% of Outer Space
+% Written by Christian Galindo, Anastasiia Bolkhovitina & João Vasconcelos Gonçalves
+% Edited by Ariane Sorsen Albisu
+% The Privatisation and Commercial Colonisation of Outer Space
+% House Of Representatives Committee
+% IEUMUN 2026

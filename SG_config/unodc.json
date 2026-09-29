@@ -1,0 +1,13 @@
+{
+  "source": "SG_assets/RED/UNODC _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/UNODC.png",
+  "output": "unodc_ieumun2026.pdf",
+  "meta": {
+    "committee": "UNODC",
+    "longname": "United Nations Office on Drugs and Crime",
+    "topic": "Combating Human Trafficking in Conflict & Post-Conflict Zones",
+    "authors": "Julia, Roshni & Francesca",
+    "authors_label": "Chairs",
+    "editor": ""
+  }
+}

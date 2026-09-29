@@ -1,0 +1,74 @@
+{
+  "sections": [
+    {
+      "file": "00-letter-from-the-chairs",
+      "title": "LETTER FROM THE CHAIRS",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-list-of-abbreviations",
+      "title": "LIST OF ABBREVIATIONS",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "ABOUT THE COMMITTEE",
+      "kind": "normal"
+    },
+    {
+      "file": "03-about-the-topic",
+      "title": "ABOUT THE TOPIC",
+      "kind": "normal"
+    },
+    {
+      "file": "04-past-actions",
+      "title": "PAST ACTIONS",
+      "kind": "normal"
+    },
+    {
+      "file": "05-current-situation",
+      "title": "CURRENT SITUATION",
+      "kind": "normal"
+    },
+    {
+      "file": "06-key-stakeholders-and-bloc-positions",
+      "title": "KEY STAKEHOLDERS & BLOC POSITIONS",
+      "kind": "normal"
+    },
+    {
+      "file": "07-qarmas",
+      "title": "QARMAs",
+      "kind": "normal"
+    },
+    {
+      "file": "08-further-readings",
+      "title": "FURTHER READINGS",
+      "kind": "references"
+    },
+    {
+      "file": "09-bibliography",
+      "title": "BIBLIOGRAPHY",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "CONTENTS"
+  ],
+  "images": 2,
+  "word_footnotes": 0,
+  "rebuilt_footnotes": 92,
+  "source_notes": 92,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 92,
+  "expected_footnotes": 92,
+  "pdf_mode": true,
+  "guessed_meta": {
+    "committee": "WTO",
+    "longname": "World Trade Organization",
+    "topic": "Balancing National Security and Free Trade in an Era of Geopolitical Tension",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": []
+}

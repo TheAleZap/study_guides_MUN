@@ -1,0 +1,17 @@
+{
+  "source": "SG_assets/RED/UNICEF _ IEUMUN 2026.doc",
+  "cover": "SG_assets/COVER IMAGES/IEUMUN CONTENT STRATEGY (Flyer (A4)) - UNICEF.png",
+  "output": "unicef_ieumun2026.pdf",
+  "language": "spanish",
+  "meta": {
+    "committee": "UNICEF",
+    "longname": "Fondo de las Naciones Unidas para la Infancia",
+    "topic": "",
+    "authors": "Jimena Solórzano & Raquel Picazo",
+    "authors_label": "Presidencia",
+    "editor": ""
+  },
+  "convert": {
+    "letter_fallback": "La presidencia"
+  }
+}

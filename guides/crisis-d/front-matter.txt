@@ -1,0 +1,7 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% Onglet 1
+% CRISIS STUDY GUIDE
+% OPERATION CONDOR
+% CABINET D: KGB

@@ -1,0 +1,72 @@
+{
+  "sections": [
+    {
+      "file": "00-letter-from-the-chairs",
+      "title": "SECTION I. Letter from the Chairs",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-list-of-abbreviations",
+      "title": "SECTION II. List of Abbreviations",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "SECTION III. About the Committee",
+      "kind": "normal"
+    },
+    {
+      "file": "03-the-topic-accountability-for-heritage-de",
+      "title": "SECTION IV. The Topic: Accountability for Heritage Destruction in Armed Conflict",
+      "kind": "normal"
+    },
+    {
+      "file": "04-current-situation",
+      "title": "SECTION V. Current Situation",
+      "kind": "normal"
+    },
+    {
+      "file": "05-past-international-actions-and-current-m",
+      "title": "SECTION VI. Past International Actions and Current Mechanisms",
+      "kind": "normal"
+    },
+    {
+      "file": "06-key-stakeholders-and-bloc-positions",
+      "title": "SECTION VII. Key Stakeholders and Bloc Positions",
+      "kind": "normal"
+    },
+    {
+      "file": "07-questions-a-resolution-must-answer",
+      "title": "SECTION VIII. Questions a Resolution Must Answer",
+      "kind": "normal"
+    },
+    {
+      "file": "08-bibliography",
+      "title": "SECTION IX. Bibliography",
+      "kind": "references"
+    },
+    {
+      "file": "09-further-readings",
+      "title": "SECTION X. Further Readings",
+      "kind": "references"
+    }
+  ],
+  "skipped": [],
+  "images": 0,
+  "word_footnotes": 90,
+  "rebuilt_footnotes": 0,
+  "source_notes": 90,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 90,
+  "expected_footnotes": 90,
+  "pdf_mode": false,
+  "guessed_meta": {
+    "committee": "",
+    "longname": "",
+    "topic": "Accountability For Heritage Destruction in Armed Conflict",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": []
+}

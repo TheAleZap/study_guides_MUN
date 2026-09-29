@@ -1,0 +1,5 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% UNITED NATIONS OFFICE ON DRUGS AND CRIMES
+% Topic: Combating Human Trafficking in Conflict & Post-Conflict Zones

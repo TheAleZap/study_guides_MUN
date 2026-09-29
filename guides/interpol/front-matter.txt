@@ -1,0 +1,9 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% MOCKUP
+% INTERPOL
+% International Criminal Police Organization
+% Financial Sovereignty, Offshore Secrecy, and INTERPOL’s Fight against Illicit Global Finance
+% Written by Christian Galindo, Anastasiia Bolkhovitina & João Vasconcelos Gonçalves
+% Edited by Ariane Sorsen Albisu

@@ -1,0 +1,7 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% Title Page
+% Press Committee
+% Josh Rogers G Adam Blake,
+% with reference to Emma Miranda Francis

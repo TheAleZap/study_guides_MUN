@@ -1,0 +1,7 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% Title Page
+% United Nations Security Council
+% The Question of International Security in Maritime Chokepoints
+% Talia Asar, Aryan Agrawal G Mahima Rajpal

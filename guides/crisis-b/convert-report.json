@@ -1,0 +1,59 @@
+{
+  "sections": [
+    {
+      "file": "00-crisis-director-letter",
+      "title": "01 CRISIS DIRECTOR LETTER",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-crisis-staff-introductions",
+      "title": "02 CRISIS STAFF INTRODUCTIONS",
+      "kind": "staff"
+    },
+    {
+      "file": "02-introduction-to-the-topic-and-historical",
+      "title": "04 INTRODUCTION TO THE TOPIC AND HISTORICAL CONTEXT",
+      "kind": "normal"
+    },
+    {
+      "file": "03-the-role-of-the-cabinet",
+      "title": "05 THE ROLE OF THE CABINET",
+      "kind": "normal"
+    },
+    {
+      "file": "04-initial-situation",
+      "title": "06 INITIAL SITUATION",
+      "kind": "normal"
+    },
+    {
+      "file": "05-annexes",
+      "title": "07 ANNEXES",
+      "kind": "normal"
+    },
+    {
+      "file": "06-bibliography",
+      "title": "08 BIBLIOGRAPHY",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "03 TABLE OF CONTENT"
+  ],
+  "images": 1,
+  "word_footnotes": 0,
+  "rebuilt_footnotes": 0,
+  "source_notes": 0,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 0,
+  "expected_footnotes": 0,
+  "pdf_mode": false,
+  "guessed_meta": {
+    "committee": "OPERATION CONDOR",
+    "longname": "CABINET B: CIA",
+    "topic": "",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": []
+}

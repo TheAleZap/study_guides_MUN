@@ -1,0 +1,13 @@
+{
+  "source": "SG_assets/BLUE/WORLD BANK _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/WORLD BANK.png",
+  "output": "worldbank_ieumun2026.pdf",
+  "meta": {
+    "committee": "World Bank",
+    "longname": "The World Bank Group",
+    "topic": "Sovereign Debt Distress in Developing Economies: Protecting Development Financing in a Debt Crisis",
+    "authors": "Nils Bischof & Julius Masrouki",
+    "authors_label": "Chairs",
+    "editor": ""
+  }
+}

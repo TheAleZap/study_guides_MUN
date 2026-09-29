@@ -1,0 +1,71 @@
+{
+  "sections": [
+    {
+      "file": "00-welcome-letter-from-the-chairs",
+      "title": "Welcome Letter from the Chairs",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-list-of-abbreviations",
+      "title": "List of Abbreviations",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "About the Committee",
+      "kind": "normal"
+    },
+    {
+      "file": "03-about-the-topic",
+      "title": "About the Topic",
+      "kind": "normal"
+    },
+    {
+      "file": "04-current-situation",
+      "title": "Current Situation",
+      "kind": "normal"
+    },
+    {
+      "file": "05-key-stakeholders-and-blocs",
+      "title": "Key Stakeholders & Blocs",
+      "kind": "normal"
+    },
+    {
+      "file": "06-questions-a-resolution-must-answer",
+      "title": "Questions a Resolution Must Answer",
+      "kind": "normal"
+    },
+    {
+      "file": "07-further-readings",
+      "title": "Further Readings",
+      "kind": "references"
+    },
+    {
+      "file": "08-bibliography",
+      "title": "Bibliography",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "Table of Contents"
+  ],
+  "images": 0,
+  "word_footnotes": 102,
+  "rebuilt_footnotes": 0,
+  "source_notes": 102,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 102,
+  "expected_footnotes": 102,
+  "pdf_mode": false,
+  "guessed_meta": {
+    "committee": "Disarmament and International Security Committee",
+    "longname": "Child Soldiers and Disarmament, Demobilization, and Reintegration (DDR)",
+    "topic": "Arturs Juzenko, Nathan Mahagamage & Raquel Vega",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": [
+    "4 sources link to a file on the author's computer, e.g. file:///C:/Users/Usuario/Downloads/S_RES_1379(2001)-EN.pdf"
+  ]
+}

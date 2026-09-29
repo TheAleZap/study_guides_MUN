@@ -1,0 +1,10 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% WORLD BANK
+% IE Tower · Madrid, Spain
+% Sovereign Debt Distress in Developing Economies
+% Protecting Development Financing in a Debt Crisis
+% IEUMUN 2026
+% Head Chair: Nils Bischof
+% Co-Chair: Julius Masrouki

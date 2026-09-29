@@ -1,0 +1,49 @@
+{
+  "sections": [
+    {
+      "file": "00-welcome-letter-from-the-chairs",
+      "title": "Welcome Letter from the Chairs",
+      "kind": "welcome"
+    },
+    {
+      "file": "01-types-of-journalism-in-the-press-corps",
+      "title": "Types of Journalism in the Press Corps",
+      "kind": "normal"
+    },
+    {
+      "file": "02-journal-guides-and-positions",
+      "title": "Journal Guides & Positions",
+      "kind": "normal"
+    },
+    {
+      "file": "03-position-paper-guidelines",
+      "title": "Position Paper Guidelines",
+      "kind": "normal"
+    },
+    {
+      "file": "04-bibliography",
+      "title": "Bibliography",
+      "kind": "references"
+    }
+  ],
+  "skipped": [
+    "Table of Contents"
+  ],
+  "images": 2,
+  "word_footnotes": 0,
+  "rebuilt_footnotes": 73,
+  "source_notes": 73,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 73,
+  "expected_footnotes": 73,
+  "pdf_mode": true,
+  "guessed_meta": {
+    "committee": "Press Committee",
+    "longname": "Josh Rogers G Adam Blake,",
+    "topic": "with reference to Emma Miranda Francis",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": []
+}

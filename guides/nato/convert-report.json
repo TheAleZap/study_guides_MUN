@@ -1,0 +1,69 @@
+{
+  "sections": [
+    {
+      "file": "00-list-of-abbreviations",
+      "title": "LIST OF ABBREVIATIONS",
+      "kind": "abbreviations"
+    },
+    {
+      "file": "01-letter-from-chairs",
+      "title": "LETTER FROM CHAIRS",
+      "kind": "welcome"
+    },
+    {
+      "file": "02-about-the-committee",
+      "title": "ABOUT THE COMMITTEE",
+      "kind": "normal"
+    },
+    {
+      "file": "03-about-the-topic",
+      "title": "ABOUT THE TOPIC",
+      "kind": "normal"
+    },
+    {
+      "file": "04-past-actions-and-current-situation",
+      "title": "PAST ACTIONS AND CURRENT SITUATION",
+      "kind": "normal"
+    },
+    {
+      "file": "05-bloc-positions-and-key-stakeholders",
+      "title": "Bloc Positions and Key Stakeholders",
+      "kind": "normal"
+    },
+    {
+      "file": "06-qarmas",
+      "title": "QARMAS",
+      "kind": "normal"
+    },
+    {
+      "file": "07-bibliography",
+      "title": "BIBLIOGRAPHY",
+      "kind": "references"
+    },
+    {
+      "file": "08-further-reading",
+      "title": "FURTHER READING",
+      "kind": "references"
+    }
+  ],
+  "skipped": [],
+  "images": 2,
+  "word_footnotes": 0,
+  "rebuilt_footnotes": 49,
+  "source_notes": 49,
+  "notes_outside_guide": 0,
+  "source_notes_missing": [],
+  "footnotes_written": 49,
+  "expected_footnotes": 49,
+  "pdf_mode": true,
+  "guessed_meta": {
+    "committee": "NORTH ATLANTIC TREATY ORGANISATION",
+    "longname": "Undersea Infrastructure Security in the Baltic Sea",
+    "topic": "BLOC POSITIONS AND KEY STAKEHOLDERS",
+    "authors": "",
+    "editor": ""
+  },
+  "warnings": [
+    "note 13 has no marker in the text; attached after the paragraph before it."
+  ]
+}

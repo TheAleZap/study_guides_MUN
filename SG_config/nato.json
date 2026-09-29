@@ -1,0 +1,18 @@
+{
+  "source": "SG_assets/RED/NATO _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/NATO.png",
+  "output": "nato_ieumun2026.pdf",
+  "meta": {
+    "committee": "NATO",
+    "longname": "North Atlantic Treaty Organization",
+    "topic": "Undersea Infrastructure Security in the Baltic Sea",
+    "authors": "Lucía Sobrado Louzao, Caspar Nitschke & Marie Matouchová",
+    "authors_label": "Chairs",
+    "editor": ""
+  },
+  "convert": {
+    "headings": [
+      {"match": "(?i)^bloc positions and key stakeholders$", "level": "top"}
+    ]
+  }
+}

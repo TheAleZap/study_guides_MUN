@@ -1,0 +1,13 @@
+{
+  "source": "SG_assets/BLACK/PRESS _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/PRESS.png",
+  "output": "press_ieumun2026.pdf",
+  "meta": {
+    "committee": "PRESS",
+    "longname": "Press Corps",
+    "topic": "",
+    "authors": "Josh Rogers & Adam Blake",
+    "editor": "Emma Miranda Francis",
+    "editor_label": "With reference to"
+  }
+}

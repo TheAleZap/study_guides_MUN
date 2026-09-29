@@ -1,0 +1,7 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% Title Page
+% Disarmament and International Security Committee
+% Child Soldiers and Disarmament, Demobilization, and Reintegration (DDR)
+% Arturs Juzenko, Nathan Mahagamage & Raquel Vega

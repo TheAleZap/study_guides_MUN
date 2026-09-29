@@ -1,0 +1,81 @@
+%% IEUMUN 2026 — magazine-style cover: full-bleed artwork + lower-third title block
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{ieumun-cover}[2026/09/29 v2 IEUMUN study guide cover]
+
+\RequirePackage{tikz}
+\usetikzlibrary{fadings}
+
+\tikzfading[name=ieumun@coverfade,
+  top color=transparent!100,
+  bottom color=transparent!0]
+
+\newlength{\ieumun@covermargin}
+\setlength{\ieumun@covermargin}{2.2cm}
+
+\newcommand{\ieumun@covercredit}[3]{%
+  \begin{minipage}[t]{#1\linewidth}\RaggedRight
+    {\color{white!62}\ieumun@kicker{#2}\par}%
+    \vspace{6pt}%
+    {\ieumun@medium\fontsize{10}{15}\selectfont\color{white}#3\par}%
+  \end{minipage}%
+}
+
+% The committee name is set at 60 pt, scaled down (to 34 pt at the least) so a
+% long name still fits on one line.
+\newsavebox{\ieumun@namebox}
+\newcommand{\ieumun@namesize}{60}
+\newcommand{\ieumun@fitname}{%
+  \sbox{\ieumun@namebox}{\ieumun@heavy\fontsize{60}{60}\selectfont\ieumun@committee}%
+  \ifdim\wd\ieumun@namebox>\dimexpr\paperwidth-2\ieumun@covermargin\relax
+    \edef\ieumun@namesize{\fpeval{max(34, trunc(60*(\strip@pt\dimexpr\paperwidth-2\ieumun@covermargin\relax)/(\strip@pt\wd\ieumun@namebox), 1))}}%
+  \fi
+}
+
+\newcommand{\makecover}{%
+  \ieumun@fitname
+  \thispagestyle{empty}%
+  \begin{tikzpicture}[remember picture, overlay]
+    \IfFileExists{\ieumun@cover}{%
+      \node[anchor=center, inner sep=0pt] at (current page.center)
+        {\includegraphics[width=\paperwidth,height=\paperheight]{\ieumun@cover}};
+    }{%
+      \fill[ieumun@text] (current page.south west) rectangle (current page.north east);
+    }
+    \fill[black, opacity=0.78, path fading=ieumun@coverfade]
+      (current page.south west) rectangle
+      ([yshift=0.44\paperheight]current page.south east);
+    \node[
+      anchor=south west,
+      inner sep=0pt,
+      text width=\paperwidth-2\ieumun@covermargin,
+    ] at ([xshift=\ieumun@covermargin, yshift=2cm]current page.south west) {%
+      \RaggedRight\color{white}\hyphenpenalty=10000\exhyphenpenalty=10000%
+      {\color{ieumun@coveraccent}\rule{2.2cm}{2.5pt}\par}%
+      \vspace{14pt}%
+      {\color{white!78}\ieumun@kicker{\ieumun@lbl@studyguide\quad\textbullet\quad\ieumun@conference}\par}%
+      \vspace{10pt}%
+      {\ieumun@heavy\fontsize{\ieumun@namesize}{\ieumun@namesize}\selectfont\ieumun@committee\par}%
+      \vspace{12pt}%
+      {\ieumun@medium\fontsize{11}{14}\selectfont\color{white!72}\ieumun@longname\par}%
+      \ifdefempty{\ieumun@topic}{}{%
+        \vspace{22pt}%
+        {\ieumun@light\fontsize{21}{27}\selectfont\ieumun@topic\par}%
+      }%
+      \vspace{24pt}%
+      {\color{white!30}\hrule height 0.4pt}%
+      \vspace{14pt}%
+      \ifdefempty{\ieumun@editor}{%
+        \ieumun@covercredit{1}{\ieumun@lbl@writtenby}{\ieumun@authors}%
+      }{%
+        \ieumun@covercredit{0.64}{\ieumun@lbl@writtenby}{\ieumun@authors}%
+        \hfill
+        \ieumun@covercredit{0.3}{\ieumun@lbl@editedby}{\ieumun@editor}%
+      }%
+      \par
+    };
+  \end{tikzpicture}%
+  \null
+  \clearpage
+}
+
+\endinput

@@ -1,0 +1,14 @@
+{
+  "source": "SG_assets/BLUE/CRISIS CABINET B _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/CRISIS.png",
+  "output": "crisis-b_ieumun2026.pdf",
+  "meta": {
+    "committee": "Cabinet B",
+    "longname": "Crisis Committee · CIA",
+    "topic": "Operation Condor",
+    "authors": "Peter Zakhar & Miriam Liberal",
+    "authors_label": "Chairs",
+    "editor": "Noelia Álvarez Iglesias",
+    "editor_label": "Crisis Director"
+  }
+}

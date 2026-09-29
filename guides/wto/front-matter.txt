@@ -1,0 +1,6 @@
+% Text found before the first section (usually the Word cover page).
+% It is not \input anywhere; metadata in main.tex comes from it or from the config.
+
+% WTO
+% World Trade Organization
+% Balancing National Security and Free Trade in an Era of Geopolitical Tension

@@ -1,0 +1,29 @@
+{
+  "source": "SG_assets/BLACK/ INTERPOL _ IEUMUN 2026.docx",
+  "cover": "SG_assets/COVER IMAGES/INTERPOL.png",
+  "output": "interpol_ieumun2026.pdf",
+  "meta": {
+    "committee": "INTERPOL",
+    "longname": "International Criminal Police Organization",
+    "topic": "Financial Sovereignty, Offshore Secrecy, and INTERPOL’s Fight against Illicit Global Finance",
+    "authors": "Christian Galindo, Anastasiia Bolkhovitina & João Vasconcelos Gonçalves",
+    "editor": "Ariane Sorsen Albisu"
+  },
+  "patches": [
+    {
+      "file": "content/*welcome*.tex",
+      "find": "\\end{chairletter}\n\n\\begin{chairletter}{João",
+      "replace": "\\end{chairletter}\n\n\\pullquote[Anastasiia Bolkhovitina]{Diplomacy is mostly economics wearing a nicer suit.}\n\n\\begin{chairletter}{João"
+    },
+    {
+      "file": "content/*about-the-committee.tex",
+      "find": "Just as important is what INTERPOL cannot do. Delegates should be precise:\n\n\\begin{itemize}",
+      "replace": "\\begin{keypoints}[What INTERPOL cannot do]"
+    },
+    {
+      "file": "content/*about-the-committee.tex",
+      "find": "\\end{itemize}\n\nThis is the paradox",
+      "replace": "\\end{keypoints}\n\nThis is the paradox"
+    }
+  ]
+}
